@@ -1,0 +1,303 @@
+[
+  {
+    "backcolor": "#a89e9e",
+    "name": "LeoSagan",
+    "author": "LeoSagan",
+    "radii": "10px",
+    "css": "@font-face {\n    font-family: \"Univers Condensed 48 Light Italic\";\n    src: url(\"https://db.onlinewebfonts.com/t/da7204da7f05f21347958ee898dd53a8.eot\");\n    src: url(\"https://db.onlinewebfonts.com/t/da7204da7f05f21347958ee898dd53a8.eot?#iefix\")format(\"embedded-opentype\"),\n    url(\"https://db.onlinewebfonts.com/t/da7204da7f05f21347958ee898dd53a8.woff2\")format(\"woff2\"),\n    url(\"https://db.onlinewebfonts.com/t/da7204da7f05f21347958ee898dd53a8.woff\")format(\"woff\"),\n    url(\"https://db.onlinewebfonts.com/t/da7204da7f05f21347958ee898dd53a8.ttf\")format(\"truetype\"),\n    url(\"https://db.onlinewebfonts.com/t/da7204da7f05f21347958ee898dd53a8.svg#Univers Condensed 48 Light Italic\")format(\"svg\");\n}\n* { \n    font-family: 'Univers Condensed 48 Light Italic'; }\n"
+  },
+  [
+    {
+      "c": "#ffc100",
+      "t": "#2b2c2e",
+      "f": 5
+    },
+    "\nesc",
+    {
+      "x": 0.25,
+      "c": "#a49d97",
+      "t": "#000000"
+    },
+    "\nF1",
+    "\nF2",
+    "\nF3",
+    "\nF4",
+    {
+      "x": 0.25,
+      "c": "#7b7871"
+    },
+    "\nF5",
+    "\nF6",
+    "\nF7",
+    "\nF8",
+    {
+      "x": 0.25,
+      "c": "#928c7d"
+    },
+    "\nF9",
+    "\nF10",
+    "\nF11",
+    "\nF12",
+    {
+      "x": 0.25,
+      "c": "#7b7871",
+      "t": "#e3e2dd"
+    },
+    "\nnumLk\n<i class='fa fa-music'></i>",
+    {
+      "x": 0.25,
+      "c": "#a19d91",
+      "t": "#0d0d0b"
+    },
+    "\n7\n<i class='fa fa-volume-off'></i>",
+    "\n8\n<i class='fa fa-volume-down'></i>",
+    "\n9\n<i class='fa fa-volume-up'></i>"
+  ],
+  [
+    {
+      "x": 15.25
+    },
+    "\n4\n<i class='fa fa-backward'></i>",
+    {
+      "n": true
+    },
+    "\n5\n<i class='fa fa-play'></i>",
+    "\n6\n<i class='fa fa-forward'></i>"
+  ],
+  [
+    {
+      "y": -0.75,
+      "c": "#82807a",
+      "t": "#e3e2dd"
+    },
+    "~\n`",
+    {
+      "c": "#abacab",
+      "t": "#000000"
+    },
+    "!\n1",
+    "@\n2",
+    "#\n3",
+    "$\n4",
+    "%\n5",
+    "^\n6",
+    "&\n7",
+    "*\n8",
+    "(\n9",
+    ")\n0",
+    {
+      "c": "#a19d91",
+      "t": "#0d0d0b"
+    },
+    "_\n-",
+    "+\n=",
+    "|\n\\",
+    {
+      "c": "#7b7871",
+      "t": "#e3e2dd"
+    },
+    "\n⌫"
+  ],
+  [
+    {
+      "y": -0.25,
+      "x": 15.25,
+      "c": "#a19d91",
+      "t": "#0d0d0b"
+    },
+    "\n1\n<i class='fa fa-sun-o'></i>",
+    "\n2\n<i class='fa fa-certificate'></i>",
+    "\n3\n<i class='fa fa-microphone-slash'></i>"
+  ],
+  [
+    {
+      "y": -0.75,
+      "c": "#82807a",
+      "t": "#e3e2dd",
+      "w": 1.5
+    },
+    "\ntab",
+    {
+      "c": "#c3bfae",
+      "t": "#000000"
+    },
+    "\nQ",
+    "\nW",
+    "\nE",
+    "\nR",
+    "\nT",
+    "\nY",
+    "\nU",
+    "\nI",
+    "\nO",
+    "\nP",
+    {
+      "c": "#a19d91"
+    },
+    "{\n[",
+    "}\n]",
+    {
+      "c": "#ffc100",
+      "t": "#2b2c2e",
+      "w": 1.5,
+      "h": 2,
+      "w2": 2.25,
+      "h2": 1,
+      "x2": -0.75,
+      "y2": 1
+    },
+    "\nreturn ↵"
+  ],
+  [
+    {
+      "y": -0.25,
+      "x": 15.25,
+      "c": "#7b7871",
+      "t": "#e3e2dd"
+    },
+    "\n⌦\nhome",
+    {
+      "c": "#a19d91",
+      "t": "#0d0d0b"
+    },
+    "\n0",
+    {
+      "c": "#7b7871",
+      "t": "#e3e2dd"
+    },
+    "\n.\nend"
+  ],
+  [
+    {
+      "y": -0.75,
+      "c": "#82807a",
+      "w": 1.25,
+      "w2": 1.75,
+      "l": true
+    },
+    "\ncapsLk",
+    {
+      "x": 0.5,
+      "c": "#c3bfae",
+      "t": "#000000"
+    },
+    "\nA",
+    "\nS",
+    "\nD",
+    {
+      "n": true
+    },
+    "\nF",
+    "\nG",
+    "\nH",
+    {
+      "n": true
+    },
+    "\nJ",
+    "\nK",
+    "\nL",
+    {
+      "c": "#a19d91"
+    },
+    ":\n;",
+    "\"\n'"
+  ],
+  [
+    {
+      "y": -0.25,
+      "x": 15.25,
+      "c": "#7b7871",
+      "t": "#e3e2dd",
+      "a": 6,
+      "n": true
+    },
+    "pgUp",
+    {
+      "x": 1,
+      "n": true
+    },
+    "pgDn"
+  ],
+  [
+    {
+      "y": -0.75,
+      "c": "#82807a",
+      "a": 4,
+      "w": 2.25
+    },
+    "\nshift",
+    {
+      "c": "#c3bfae",
+      "t": "#000000"
+    },
+    "\nZ",
+    "\nX",
+    "\nC",
+    "\nV",
+    "\nB",
+    "\nN",
+    "\nM",
+    {
+      "c": "#a19d91"
+    },
+    "<\n,",
+    ">\n.",
+    "?\n/",
+    {
+      "c": "#82807a",
+      "t": "#e3e2dd",
+      "w": 2.75
+    },
+    "\nshift",
+    {
+      "x": 1.25,
+      "c": "#ffc100",
+      "t": "#2b2c2e"
+    },
+    "\n↑"
+  ],
+  [
+    {
+      "c": "#82807a",
+      "t": "#e3e2dd"
+    },
+    "\n&#127760;\nfn",
+    {
+      "w": 1.25
+    },
+    "\n\n<i class='fa fa-angle-up'></i>\nctrl",
+    "\n\n⌥\nopt",
+    {
+      "w": 1.25
+    },
+    "\n\n⌘\ncmd",
+    {
+      "c": "#a19d93",
+      "t": "#000000",
+      "a": 5,
+      "w": 6
+    },
+    "<i class='fa fa-minus'></i>",
+    {
+      "c": "#82807a",
+      "t": "#e3e2dd",
+      "a": 4,
+      "w": 1.25
+    },
+    "⌘\ncmd",
+    "⌥\nopt",
+    {
+      "w": 1.25
+    },
+    "<i class='fa fa-angle-up'></i>\nctrl",
+    "\nprint\n<i class='fa fa-crop'></i>",
+    {
+      "x": 0.25,
+      "c": "#ffc100",
+      "t": "#2b2c2e"
+    },
+    "\n←",
+    "\n↓",
+    "\n→"
+  ]
+]
